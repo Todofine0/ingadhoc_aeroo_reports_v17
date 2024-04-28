@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Report to print Aeroo',
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'category': 'Reporting Subsystem',
     'sequence': 14,
     'author': 'ADHOC SA',
